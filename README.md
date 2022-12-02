@@ -1,2 +1,2 @@
-yarn install
+yarn install\
 yarn ts-node index.ts
